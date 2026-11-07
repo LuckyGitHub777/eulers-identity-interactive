@@ -1,4 +1,4 @@
-name: Verify offline Euler educational site
+name: Verify Euler interactive learning
 on:
   push:
     branches: [main]
