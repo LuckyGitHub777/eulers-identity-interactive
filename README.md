@@ -1,8 +1,8 @@
 # Euler's Identity — Interactive Mathematics
 
-Explore complex rotation through three offline, interactive mathematical experiences.
+Explore complex rotation through three interactive mathematical experiences.
 
-**Explore online:** [Euler’s Identity interactive experience](https://eulers.id/) is a companion published website. The three examples below remain available directly from this repository for offline learning.
+**Explore online:** [Euler’s Identity interactive experience](https://eulers.id/) is the configured public website. The three examples below remain available directly from this repository for studying the public source.
 
 - [Unit circle](index.html) — visualize Euler's formula and the identity `e^(iπ) + 1 = 0`.
 - [Matrix rotation](matrix.html) — connect complex multiplication to planar rotation.
